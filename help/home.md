@@ -1,16 +1,19 @@
 ---
 description: 'null'
 seo-description: 'null'
-seo-title: Adobe Experience Cloud Device Co-op 설명서
-title: Adobe Experience Cloud Device Co-op 설명서
+seo-title: Adobe Experience Cloud 장치 협력 문서
+title: Adobe Experience Cloud 장치 협력 문서
 uuid: ec951e20-8736-4d42-b5e5-3e9abfc6820d
 translation-type: tm+mt
 source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+workflow-type: tm+mt
+source-wordcount: '148'
+ht-degree: 44%
 
 ---
 
 
-# Adobe Experience Cloud Device Co-op 설명서{#adobe-experience-cloud-device-co-op-documentation}
+# Adobe Experience Cloud 장치 협력 문서{#adobe-experience-cloud-device-co-op-documentation}
 
 참여 고객 [!DNL Adobe Experience Cloud] [!DNL Device Co-op] 이 장치 링크 정보를 공유하는 디지털 협력체입니다. 이 [!DNL Experience Cloud] [!DNL Device Co-op] 는 이 데이터를 처리하여 장치 클러스터를 형성합니다. 이러한 클러스터는 알 수 없는 사람이 사용하는 장치 그룹을 나타냅니다. 이러한 클러스터를 멤버 간에 [!DNL Device Co-op] 공유하므로 고객에게 가치 있고 일관된 크로스 디바이스 경험을 제공할 수 있습니다.
 
