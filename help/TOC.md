@@ -1,11 +1,11 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: device co-op
 audience: end-user
 user-guide-title: Device Co-op 안내서
-user-guide-description: Adobe Experience Cloud Device Co-op은 참여하는 고객이 장치 링크 정보를 공유하는 디지털 협력체입니다. 이러한 정보는 고객에게 가치 있고 일관된 교차 장치 경험을 제공하는 데 도움이 됩니다.
+user-guide-description: Adobe Experience Cloud Device Co-op은 참여하는 고객이 디바이스 링크 정보를 공유하는 디지털 협력체입니다. 이 정보는 고객에게 가치 있고 일관된 크로스 디바이스 경험을 제공하는 데 도움이 됩니다.
 translation-type: tm+mt
-source-git-commit: aa27b2b894b806510350c5d69f3f50b5476ccb48
+source-git-commit: edb9233d29d46d7d559a513bbdaa81fa86e77418
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 31%
