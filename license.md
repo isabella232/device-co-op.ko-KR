@@ -1,11 +1,13 @@
 ---
-source-git-commit: 53d600491ee123201d0b01fb0cdb8974e092f79f
-translation-type: tm+mt
+source-git-commit: 59fabbfc143ef391362b103f261b73a6b2946829
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 100%
 
 ---
 # MIT 라이선스
 
-© Copyright 2018 Adobe. All rights reserved.
+© Copyright 2021 Adobe. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the &quot;Software&quot;), to deal
