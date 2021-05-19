@@ -3,7 +3,7 @@ description: Device Co-op(Identity Services Cooperative 및 Identity Graph)에 �
 title: Device Co-op FAQ
 uuid: 490566e1-4d35-468c-8389-678f9ff02cc8
 exl-id: 6511e247-76a7-4960-944c-b49fd046fb28
-source-git-commit: e7a53a4892a8769fc178f5f3f2b82201589177b2
+source-git-commit: 399a4fe2d34957eafe8c4eebed465df8770a9239
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 1%
