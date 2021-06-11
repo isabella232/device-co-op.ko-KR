@@ -4,10 +4,10 @@ product: device co-op
 audience: end-user
 user-guide-title: Device Co-op 안내서
 user-guide-description: Adobe Experience Cloud Device Co-op은 참여하는 고객이 디바이스 링크 정보를 공유하는 디지털 협력체입니다. 이 정보는 고객에게 가치 있고 일관된 크로스 디바이스 경험을 제공하는 데 도움이 됩니다.
-source-git-commit: 27c2c3044d65a4d6b4a2eef8454d90d9f68cfa1d
+source-git-commit: 9700a77aed23e2899ce59b6589793032554fe7c0
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 31%
+source-wordcount: '123'
+ht-degree: 30%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 31%
 
 + [Adobe Experience Cloud Device Co-op 설명서](home.md)
 + Device Co-op {#about} 정보
+   + [Device Co-op 사용 종료 FAQ](about/device-co-op-eol.md)
    + [개요](about/overview.md)
    + [멤버십 요구 사항](about/requirements.md)
 + Device Graph {#device-graph} 정보
