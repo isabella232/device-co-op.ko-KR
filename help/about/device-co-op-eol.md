@@ -1,9 +1,9 @@
 ---
 keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op;수명 종료
-solution: Adobe Experience Cloud
 title: Device Co-op 사용 종료 FAQ
 description: 장치 Co-op의 수명 종료 계획에 대해 알아봅니다.
-source-git-commit: b9e21ba2f749b7a4ad69c122e2273b7f3309da58
+exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
+source-git-commit: c19e8425d5d6c2498186c19929907d2ee5327b31
 workflow-type: tm+mt
 source-wordcount: '1017'
 ht-degree: 2%
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Device Co-op 사용 종료 FAQ
 
-이 문서에서는 Adobe Experience Cloud Device Co-op 수명 종료(EOL) 계획에 대해 자주 묻는 질문에 대한 답변을 제공합니다. 이 계획이 실행되면 Adobe은 [Experience Cloud 릴리스 노트](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) 및 [우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)에 고급 알림을 제공합니다.
+이 문서에서는 Adobe Experience Cloud Device Co-op 수명 종료(EOL) 계획에 대해 자주 묻는 질문에 대한 답변을 제공합니다. 이 계획이 실행되면 Adobe은 [Experience Cloud 릴리스 노트](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ko-KR) 및 [우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)에 고급 알림을 제공합니다.
 
 ## FAQ
 
