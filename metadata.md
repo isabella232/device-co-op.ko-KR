@@ -3,19 +3,18 @@ cloud: Experience Cloud
 product: core-services
 solution: Experience Cloud Services
 type: Documentation
-solution-title: 학습 및 지원
+solution-title: Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-icon: help/interface/assets/experience-cloud-logo-24.png
-getting-started-title: 시작하기
-getting-started-url: https://helpx.adobe.com/kr/experience-cloud-core-services/get-started.html
-tutorials-title: 자습서
+getting-started-title: Getting Started
+getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-started.html
+tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
-git-repo: https://git.corp.adobe.com/AdobeDocs/device-co-op.ko-KR
+git-repo: https://github.com/AdobeDocs/device-co-op.ko-KR
 index: true
-translation-type: tm+mt
 source-git-commit: edb9233d29d46d7d559a513bbdaa81fa86e77418
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '150'
 ht-degree: 97%
 
 ---
@@ -23,7 +22,7 @@ ht-degree: 97%
 
 # 내부용 메타데이터
 
-metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 모든 사용 안내서를 위한 metadata.md 컨텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행합니다.
+metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 모든 사용 안내서를 위한 metadata.md 콘텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행하십시오.
 
 | 메타데이터 | 기능 |
 |--- |--- |
