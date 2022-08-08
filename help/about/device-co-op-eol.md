@@ -3,9 +3,9 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: Device Co-op 사용 종료 FAQ
 description: 장치 Co-op의 수명 종료 계획에 대해 알아봅니다.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 8896718ce5fec25cb72f7a2a5ccb4573433e0bb1
+source-git-commit: 952fe1bc73efd99812f3f2950b009ff8dcd83ae1
 workflow-type: tm+mt
-source-wordcount: '1019'
+source-wordcount: '1053'
 ht-degree: 4%
 
 ---
@@ -26,6 +26,10 @@ AdTech 환경의 향후 변경 사항은 [!DNL Device Co-op] 앞으로 몇 년 �
 
 타사 쿠키와 관련한 예정된 업계 변화로 인해 고객 기대를 충족하지 못할 위험을 방지하기 위해 등록이 종료됩니다. [!DNL Device Co-op] 준비하는 데 몇 달이 걸리고 서비스에서 가치를 추출하는 데 몇 달이 걸립니다. 이 시점에서 추가로 등록하면 브랜드에게 [!DNL Device Co-op].
 
+## 2022년 7월, Google은 Chrome에서 2024년까지 타사 쿠키 사용 중단 지연을 발표했습니다. 이것이 [!DNL Device Co-op] EOL 계획?
+
+아니요, Adobe [!DNL Device Co-op] EOL 계획은 계속 동일하게 유지되며 연장되지 않을 것입니다.
+
 ## 신규 고객이 등록할 수 있습니까?
 
 2021년 6월 11일부터 Adobe은 더 이상 새 등록을 승인하지 않습니다 [!DNL Device Co-op].
@@ -42,7 +46,7 @@ AdTech 환경의 향후 변경 사항은 [!DNL Device Co-op] 앞으로 몇 년 �
 
 다음 응용 프로그램은 [!DNL Device Co-op] 수명 종료 절차:
 
-- [Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=ko-KR)
+- [Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=en)
 - [Adobe Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=en)
 - [Adobe Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=en)
 - [Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en)
