@@ -3,9 +3,9 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: Device Co-op 사용 종료 FAQ
 description: 장치 Co-op의 수명 종료 계획에 대해 알아봅니다.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 952fe1bc73efd99812f3f2950b009ff8dcd83ae1
+source-git-commit: ab45f8f54046a31e60223a36c374dc99dc968d7c
 workflow-type: tm+mt
-source-wordcount: '1053'
+source-wordcount: '1079'
 ht-degree: 4%
 
 ---
@@ -40,7 +40,7 @@ AdTech 환경의 향후 변경 사항은 [!DNL Device Co-op] 앞으로 몇 년 �
 
 ## 정확한 종료 날짜는 언제입니까 [!DNL Device Co-op] 프로그램?
 
-다음 [!DNL Device Co-op] 프로그램은 2022년에 종료됩니다. 구체적인 시점과 날짜는 [!DNL Google] 타사 쿠키를 차단하기 시작합니다.
+다음 [!DNL Device Co-op] 프로그램은 2022년에 종료됩니다. 구체적인 시점과 날짜는 [!DNL Google] 타사 쿠키를 차단하기 시작합니다. 해체작업은 2022년 9월에 시작될 것으로 예상된다.
 
 ## Device Co-op 수명 종료 시 어떤 애플리케이션이 영향을 받습니까?
 
@@ -59,7 +59,7 @@ AdTech 환경의 향후 변경 사항은 [!DNL Device Co-op] 앞으로 몇 년 �
 
 ### [!DNL Audience Manager]
 
-[!DNL Audience Manager] 다음을 포함하여 타사 장치 그래프 파트너와 통합 유지 [!DNL LiveRamp] 및 [!DNL Tapad]를 활용하려면 그래프 파트너와 직접 상업적 관계를 설정해야 하지만 [!DNL Audience Manager].
+[!DNL Audience Manager] 다음을 포함하여 타사 장치 그래프 파트너와 통합 유지 [!DNL LiveRamp] 및 [!DNL Tapad]를 활용하려면 그래프 파트너와 직접 상업적 관계를 설정해야 하지만 [!DNL Audience Manager]. 모든 고객은 Co-op 프로필 병합 규칙 을 업데이트하여 이외의 옵션을 활용할 수 있습니다 [!DNL Device Co-op.]
 
 ### [!DNL Real-time Customer Data Platform]
 
