@@ -3,9 +3,9 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: Device Co-op 사용 종료 FAQ
 description: 장치 Co-op의 수명 종료 계획에 대해 알아봅니다.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: ab45f8f54046a31e60223a36c374dc99dc968d7c
+source-git-commit: 6cb8efa9090d414e1f75c78d40d1c684d04342f9
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1106'
 ht-degree: 4%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 4%
 # Device Co-op 사용 종료 FAQ
 
 이 문서에서는 Adobe Experience Cloud Device Co-op 수명 종료(EOL) 계획에 대해 자주 묻는 질문에 대한 답변을 제공합니다. 이 계획이 실행되면 Adobe은 [Experience Cloud 릴리스 노트](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ko-KR) 그리고 [우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html).
+
+Device Co-op는 참여자가 협력하여 디지털 터치 포인트에서 소비자를 더 잘 식별하면서도 가장 높은 수준의 개인 정보 및 투명성을 보장하는 프로그램입니다.
 
 ## FAQ
 
@@ -75,7 +77,7 @@ AdTech 환경의 향후 변경 사항은 [!DNL Device Co-op] 앞으로 몇 년 �
 
 ### Adobe Advertising Cloud
 
-[!DNL Advertising Cloud] 고객은 더 이상 [!DNL Device Co-op] 교차 장치 대상 타깃팅 및 측정용. 사용 [!DNL Advertising Cloud], Adobe의 [!DNL Device Graph] 파트너십 [!DNL LiveRamp] 이 기능을 [!DNL LiveRamp’s] 기능 및 확장성 사용 중인 캠페인을 허용해야 합니다 [!DNL Device Co-op] 종료하려면 [!DNL LiveRamp] 장치 그래프 제공자를 활용하거나 더 이상 사용자 기반 타깃팅을 활용하지 않습니다.
+[!DNL Advertising Cloud] 고객은 더 이상 [!DNL Device Co-op] 교차 장치 대상 타깃팅 및 측정용. 사용 [!DNL Advertising Cloud], Adobe의 [!DNL Device Graph] 파트너십 [!DNL LiveRamp] 이 기능을 [!DNL LiveRamp's] 기능 및 확장성 사용 중인 캠페인을 허용해야 합니다 [!DNL Device Co-op] 종료하려면 [!DNL LiveRamp] 장치 그래프 제공자를 활용하거나 더 이상 사용자 기반 타깃팅을 활용하지 않습니다.
 
 ## 쿠키가 없는 미래를 준비하는 데 도움이 되는 기존 기능 및 구현은 무엇입니까?
 
