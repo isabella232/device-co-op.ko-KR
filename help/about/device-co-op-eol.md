@@ -2,8 +2,7 @@
 keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op;수명 종료
 title: Device Co-op 사용 종료 FAQ
 description: 장치 Co-op의 수명 종료 계획에 대해 알아봅니다.
-exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 6cb8efa9090d414e1f75c78d40d1c684d04342f9
+source-git-commit: 8c372964824a33f31a5a3b11a38ebe1a49df35ea
 workflow-type: tm+mt
 source-wordcount: '1106'
 ht-degree: 4%

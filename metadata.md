@@ -11,8 +11,8 @@ getting-started-url: https://helpx.adobe.com/experience-cloud-core-services/get-
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
 git-repo: https://github.com/AdobeDocs/device-co-op.ko-KR
-index: true
-source-git-commit: edb9233d29d46d7d559a513bbdaa81fa86e77418
+index: false
+source-git-commit: 8c372964824a33f31a5a3b11a38ebe1a49df35ea
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 97%
