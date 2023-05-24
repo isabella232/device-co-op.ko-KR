@@ -14,4 +14,4 @@ ht-degree: 90%
 
 # Device Co-op 안내서 {#using}
 
-+ [Device Co-op 사용 종료 FAQ](about/device-co-op-eol.md)
++ [Device Co-op 서비스 종료 FAQ](about/device-co-op-eol.md)

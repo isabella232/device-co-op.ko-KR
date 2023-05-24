@@ -5,6 +5,6 @@ source-wordcount: '5'
 ht-degree: 0%
 
 ---
-# Device Co-op 아카이브
+# Device Co-op 보관됨
 
-중단됨 을 참조하십시오.en
+discontinued.en 참조
